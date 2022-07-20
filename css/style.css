@@ -43,7 +43,7 @@ button{
     border: none;
     color: black;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 35px;
 }
 button:active{
    transform: scale(0.95);
